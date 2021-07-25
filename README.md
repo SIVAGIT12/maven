@@ -1,3 +1,2 @@
-new changes
-done by developers
+>>>>>> Feature-1
 
